@@ -20,3 +20,5 @@ core
 !/web/**/*.ts
 .idea/*
 .ipynb_checkpoints
+/media
+mosquitto/log/mosquitto.log
